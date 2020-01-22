@@ -14,7 +14,7 @@ Actual project can be viewed <a href="https://codepen.io/soumyas567/full/MWYBYjj
 - html5
 - css3
 
-## Things i learned by doing this project:
+## Things I learned by doing this project:
 
 - Basic CSS styling
 - How to make an image responsive
