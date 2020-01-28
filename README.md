@@ -22,4 +22,4 @@ Actual project can be viewed <a href="https://codepen.io/soumyas567/full/MWYBYjj
 - Use of CSS grid
 
 
-courtsey for Tagore chronology:[click](http://www.angelfire.com/id/mudasir/tagorechrono.html)
+courtesy for Tagore chronology:[click](http://www.angelfire.com/id/mudasir/tagorechrono.html)
